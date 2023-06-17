@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Movelocity/Movelocity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi there! I'm an enthusiastic programmer who is passionate about lifelong learning and contributing to the open-source community. My primary area of expertise is deep learning, and I'm proficient in PyTorch. I enjoy solving complex problems and implementing innovative solutions using machine learning techniques.
+
+💻 In addition to deep learning, I'm also interested in computer graphics. While I haven't had the opportunity to code extensively in this area, I'm eager to learn more and explore the possibilities of creating visually stunning graphics using software tools like OpenGL.
+
+🌐 For web development, I specialize in creating JavaScript plugins for web pages, and I have experience designing user interfaces using Qt. I'm always looking for ways to improve user experience and create intuitive interfaces that are easy to use.
+
+🤖 Recently, I've been exploring reinforcement learning and I have tried DQN on snake game and battle-city. I find the concept of artificial intelligence fascinating and believe that it has the potential to revolutionize the way we interact with technology.
+
+📚 When I'm not coding or learning, you can find me reading about the latest developments in computer science and do some parkour. I'm always looking for new challenges and opportunities to expand my knowledge and keep fit.
+
+🌟 Ultimately, my goal is to use technology to make a positive impact on society. I believe that open-source software is one of the best ways to achieve this goal, as it allows us to collaborate and create innovative solutions that can benefit everyone.
