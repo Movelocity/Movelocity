@@ -13,14 +13,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi there! I'm an enthusiastic programmer who is passionate about lifelong learning and contributing to the open-source community. My primary area of expertise is deep learning, and I'm proficient in PyTorch. I enjoy solving complex problems and implementing innovative solutions using machine learning techniques.
+# Programmer Profile 🚀
 
-💻 In addition to deep learning, I'm also interested in computer graphics. While I haven't had the opportunity to code extensively in this area, I'm eager to learn more and explore the possibilities of creating visually stunning graphics using software tools like OpenGL.
+Hello world! 🌍 I'm a coding aficionado who thrives on the thrill of innovation. I believe in the relentless pursuit of knowledge and cherish the contributions I can make to the open-source community. Here's a snippet of the arsenal I've accumulated so far:
 
-🌐 For web development, I specialize in creating JavaScript plugins for web pages, and I have experience designing user interfaces using Qt. I'm always looking for ways to improve user experience and create intuitive interfaces that are easy to use.
+## 🧠 Skills
 
-🤖 Recently, I've been exploring reinforcement learning and I have tried DQN on snake game and battle-city. I find the concept of artificial intelligence fascinating and believe that it has the potential to revolutionize the way we interact with technology.
+- **Deep Learning**: The art of teaching machines to think.
+- **Computer Graphics**: Creating visuals that speak.
+- **Web Development**: Crafting the web with JavaScript and Qt.
+- **Reinforcement Learning**: Teaching bots to learn from every step.
 
-📚 When I'm not coding or learning, you can find me reading about the latest developments in computer science and do some parkour. I'm always looking for new challenges and opportunities to expand my knowledge and keep fit.
+## 🔭 Goals
 
-🌟 Ultimately, my goal is to use technology to make a positive impact on society. I believe that open-source software is one of the best ways to achieve this goal, as it allows us to collaborate and create innovative solutions that can benefit everyone.
+My ultimate quest is to wield technology as a force for good. Through the open-source realm, we can pool our intellect to forge solutions that uplift societies.
+
+## 🇨🇳 Chinese Poem
+
+```
+编程狂徒梦无边，
+学海泛舟意志坚。
+PyTorch妙手生花，
+图网交织掌中悬。
+
+机器学习添虎翼，
+开源共享正青春。
+科技为民建辉煌，
+携手共创不知疲。
+```
