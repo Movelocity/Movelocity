@@ -20,8 +20,7 @@ Hello world! 🌍 I'm a coding aficionado who thrives on the thrill of innovatio
 ## 🧠 Skills
 
 - **Deep Learning**: The art of teaching machines to think.
-- **Computer Graphics**: Creating visuals that speak.
-- **Web Development**: Crafting the web with JavaScript and Qt.
+- **Web Development**: Crafting and controling the web with JavaScript.
 - **Reinforcement Learning**: Teaching bots to learn from every step.
 
 ## 🔭 Goals
