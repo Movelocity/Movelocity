@@ -32,8 +32,8 @@ My ultimate quest is to wield technology as a force for good. Through the open-s
 ```
 编程狂徒梦无边，
 学海泛舟意志坚。
-PyTorch妙手生花，
-图网交织掌中悬。
+对抗扩散样样添，
+界面互联指尖点。
 
 机器学习添虎翼，
 开源共享正青春。
