@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I can build deep-learning models, create pretty web apps with popular frontend frameworks and maintain stable api services.
 
-I insist in writing comprehensive and reusable code. And I believe that programms are made to ease our lives, but not to make it more complicated and confusing.
+I insist in writing comprehensive and reusable code. And I believe that programms are made to ease our lives, instead of making it more complicated and confusing.
 
 Are you as excited about the endless possibilities of coding as I am? Let's join forces and embark on a collaborative odyssey! Whether you're a seasoned pro or a budding enthusiast, there's always room for collaboration and camaraderie in this ever-evolving ecosystem.
 
